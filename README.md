@@ -11,7 +11,7 @@ Volta para pasta raiz do windows
 ### dir 
 Lista as pastas existentes no diretória atual
 ### cd pasta
-Entra entra no diretório de nome 'pasta'
+Entra no diretório de nome 'pasta'
 ### clear
 Limpa a tela
 ### cd ..
