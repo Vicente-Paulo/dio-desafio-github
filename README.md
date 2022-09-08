@@ -18,3 +18,20 @@ Limpa a tela
 Volta para a pasta anterior
 ### mkdir pasta
 Cria um diretório com o nome 'pasta'
+
+## Comandos gerais do Git Bash
+
+### git status
+Verifica o status atual
+### git clone
+Copia o diretório da nuvem para a maquina local
+### commit -a
+Valida as pastas criadas localmente
+### git config --global user.email "you@example.com"
+Faz logoncom o e-mail
+### git config --global user.nickname "senha"
+Inserir a senha
+### git commit -m "Inclusão das anotações do Bootcamp Data Experience/GitHub"
+Inclui arqivo txt com título do documento
+### git push origin main
+Transfere os arquivos da maquina local para a nuvem
